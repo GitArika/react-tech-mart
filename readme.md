@@ -4,10 +4,7 @@ A modern e-commerce application built with React, TypeScript, Tailwind CSS, and 
 
 ## Live Demo
 
-<video autoplay loop muted playsinline>
-  <source src="./public/Screen Recording 2025-03-01 at 13.09.30.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+![live](/public/live.gif)
 
 ## Features
 
