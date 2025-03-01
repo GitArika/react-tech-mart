@@ -13,7 +13,7 @@ export const SmartphoneItem = ({ data }: { data: ISmartphone }) => {
 
   return (
     <div>
-      <div className="shadow-lg rounded-xl w-72 flex flex-col items-center p-5 space-y-3 h-[240px] mb-2">
+      <div className="bg-white shadow-lg rounded-xl w-72 flex flex-col items-center p-5 space-y-3 h-[240px] mb-2">
         <img src={image} className="w-52 h-52 object-contain" />{" "}
       </div>
       <div className="flex flex-col items-center">

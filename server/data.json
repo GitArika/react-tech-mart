@@ -2,75 +2,75 @@
   "smartphones": [
     {
       "id": "1",
-      "name": "iPhone 7 Plus",
-      "price": "749.00",
+      "name": "iPhone 16",
+      "price": "3749.00",
       "manufacturer": "Apple",
-      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
-      "memory": "1GB",
+      "image": "/0_AEMYEP3BRABCO_PRD_1500_1.jpg",
+      "memory": "6GB",
       "storage": "128GB"
     },
     {
       "id": "2",
-      "name": "iPhone X",
-      "price": "999.00",
+      "name": "iPhone 16",
+      "price": "3999.00",
       "manufacturer": "Apple",
-      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
-      "memory": "2GB",
-      "storage": "64GB"
+      "image": "/0_AEMYEJ3BRAVRD_PRD_1500_1.jpg",
+      "memory": "6GB",
+      "storage": "256GB"
     },
     {
       "id": "3",
-      "name": "iPhone XS",
-      "price": "1299.00",
+      "name": "iPhone 16",
+      "price": "4299.00",
       "manufacturer": "Apple",
-      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
-      "memory": "3GB",
-      "storage": "256GB"
+      "image": "/0_AEMTP03BRAPTO_PRD_1500_1.jpg",
+      "memory": "6GB",
+      "storage": "512GB"
     },
     {
       "id": "4",
-      "name": "iPhone XR",
-      "price": "1499.00",
+      "name": "iPhone 16 Pro Max",
+      "price": "5499.00",
       "manufacturer": "Apple",
-      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
-      "memory": "4GB",
-      "storage": "256GB"
+      "image": "/0_AEMYX33BEAPTA_PRD_1500_1.jpg",
+      "memory": "8GB",
+      "storage": "512GB"
     },
     {
       "id": "5",
-      "name": "Galaxy S10",
-      "price": "899.00",
+      "name": "Galaxy S24",
+      "price": "2899.00",
       "manufacturer": "Samsung",
-      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
-      "memory": "3GB",
+      "image": "/17278059877837.jpg",
+      "memory": "8GB",
       "storage": "128GB"
     },
     {
       "id": "6",
-      "name": "Galaxy S10 Plus",
-      "price": "999.00",
+      "name": "Galaxy S24",
+      "price": "2999.00",
       "manufacturer": "Samsung",
-      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
-      "memory": "4GB",
-      "storage": "64GB"
-    },
-    {
-      "id": "7",
-      "name": "Galaxy S10e",
-      "price": "999.00",
-      "manufacturer": "Samsung",
-      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
-      "memory": "4GB",
+      "image": "/0_SGSMS92125PTO_PRD_1500_1.jpg",
+      "memory": "8GB",
       "storage": "256GB"
     },
     {
-      "id": "8",
-      "name": "Galaxy S10+",
-      "price": "999.00",
+      "id": "7",
+      "name": "Galaxy S24",
+      "price": "3499.00",
       "manufacturer": "Samsung",
-      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
-      "memory": "4GB",
-      "storage": "64GB"
+      "image": "/0_SGSMS92125CME_PRD_1500_1.jpg",
+      "memory": "8GB",
+      "storage": "512GB"
+    },
+    {
+      "id": "8",
+      "name": "Galaxy S24 Ultra",
+      "price": "4999.00",
+      "manufacturer": "Samsung",
+      "image": "/0_SGSMS92851PTO_PRD_1500_1.jpg",
+      "memory": "12GB",
+      "storage": "512GB"
     }
   ]
 }

@@ -50,7 +50,7 @@ function AppContent() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <section className="max-w-5xl mx-auto px-4 py-12 lg:py-24">
+      <section className="max-w-5xl mx-auto px-4 py-12 lg:py-18">
         <h1 className="text-center text-3xl text-black font-bold mb-8">
           Celulares a Preço de Fábrica
         </h1>
@@ -60,7 +60,7 @@ function AppContent() {
           <div className="flex flex-col shadow bg-white rounded-lg p-6 w-full">
             <label className="text-lg font-bold mb-4">Armazenamento</label>
             <div className="flex flex-wrap gap-2">
-              {["", "64GB", "128GB", "256GB"].map((size) => (
+              {["", "128GB", "256GB", "512GB"].map((size) => (
                 <FilterButton
                   key={size || "all"}
                   onClick={() => handleStorageFilter(size)}
@@ -90,7 +90,7 @@ function AppContent() {
 
         {/* Smartphones Grid */}
         {isLoading ? (
-          <div className="flex flex-wrap justify-around space-y-12 mt-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[...Array(6)].map((_, i) => (
               <SmartphoneSkeleton key={i} />
             ))}
